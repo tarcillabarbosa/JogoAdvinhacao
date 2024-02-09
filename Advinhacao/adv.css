@@ -1,0 +1,36 @@
+body {
+  background-image: url('image/bcg.jpg');
+  background-size: cover;
+  color: crimson;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  margin: 50px;
+  }
+  h1{
+    color: #FFA2B8;
+    text-align: center;
+    border: 5px solid crimson;
+    background-color: crimson;
+    padding: 10px; 
+    margin: 0 0 20px;
+  }
+
+input[type="number"] {
+    display: block;
+    margin: 0 auto;
+    padding: 15px;
+    width: 30%; 
+    border: 2px solid crimson; 
+    border-radius: 20px; 
+    box-sizing: border-box; 
+}
+button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background-color: crimson;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
